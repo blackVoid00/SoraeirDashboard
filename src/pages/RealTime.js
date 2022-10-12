@@ -23,7 +23,7 @@ useEffect(()=> {
 },[])
   return (
     <LoadScript
-      googleMapsApiKey="AIzaSyAdH7oTynChixtdCiNt15xySKUn_uvQi3A"
+      googleMapsApiKey="YOUR API KEY"
     >
       <div className='Mainwrapper'>
       <div className="containerofMap">
